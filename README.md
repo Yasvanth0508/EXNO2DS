@@ -39,4 +39,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 ![op14](image-13.png)
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+      Thus the output To perform Exploratory Data Analysis on the given data set is crreated successfully 
